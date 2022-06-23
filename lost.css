@@ -1,0 +1,44 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(108, 78, 192);
+  height: 100px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(216, 27, 43);
+  height: 60px;
+  color: white;
+  font-weight: bolder;
+}
+body {
+  background-color: rgb(168, 121, 162);
+}
+.cont {
+  display: flex;
+  margin-top: 30px;
+}
+img {
+  width: 300px;
+}
+.ebout {
+  margin-left: 100px;
+}
+footer {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(108, 78, 192);
+  height: 200px;
+}
+.mapp {
+  display: flex;
+}
+.text {
+  margin-left: 30px;
+  margin-top: 40px;
+}
